@@ -4,10 +4,3 @@ In this project a platform game was developed in C++ with the "Simple and Fast M
 
 ![](https://github.com/TheCodeChugger/PlatformGame/blob/master/Videos/demo.gif)
 
-Keys:
-- Right:    "D"
-- Left:     "A"
-- Jump:     "SPACE"
-- Restart:  "R"
-
-
